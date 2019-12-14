@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingLeft="120dp"
+    android:paddingRight="120dp"
+    android:paddingTop="100dp"
+    tools:context="com.example.project.MainActivity"
+    >
+
+    <Button
+        android:text="Shop"
+        android:id="@+id/BuyB"
+        android:background="@drawable/save_button"
+        android:textColor="@android:color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        />
+
+
+    <Button
+        android:text="New Post"
+        android:id="@+id/SellB"
+        android:background="@drawable/save_button"
+        android:textColor="@android:color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"  />
+
+    <RelativeLayout
+        android:layout_width="170dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="80dp">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:background="@drawable/save_button"></ImageView>
+
+
+        <Button
+            android:id="@+id/myProfile"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+            android:background="@android:color/white"
+            android:layout_marginLeft="20dp"
+            android:text="My Profile"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:background="@android:color/white"
+            android:textColor="@android:color/black"
+            android:text="My Items"
+            android:id="@+id/myItems"
+            android:layout_marginLeft="20dp"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp" />
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

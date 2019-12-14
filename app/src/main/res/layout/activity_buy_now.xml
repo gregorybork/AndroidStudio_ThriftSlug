@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seller Information"
+        android:textStyle="bold"
+        android:textColor="@color/ProfileTop"
+        android:textSize="35sp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+         />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="60dp"
+        android:orientation="horizontal">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name:     "
+        android:textStyle="bold"
+        android:textColor="@color/ProfileTop"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:id="@+id/textViewContactName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rafi Haque"
+        android:textStyle="bold"
+        android:textColor="@color/ProfileTop"
+        android:textSize="22sp"
+        />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="733dp"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="60dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email:      "
+            android:textStyle="bold"
+            android:textColor="@color/ProfileTop"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textviewContactEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="mrhaque@ucsc.edu"
+            android:textStyle="bold"
+            android:textColor="@color/ProfileTop"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+
+        android:layout_marginLeft="60dp"
+        android:orientation="horizontal">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Phone:     "
+            android:textStyle="bold"
+            android:textColor="@color/ProfileTop"
+            android:textSize="22sp"
+            />
+
+        <TextView
+            android:id="@+id/textviewContactPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="000"
+            android:textStyle="bold"
+            android:textColor="@color/ProfileTop"
+            android:textSize="22sp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="60dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Venmo:    "
+            android:textStyle="bold"
+            android:textColor="@color/ProfileTop"
+            android:textSize="22sp"
+            />
+
+        <TextView
+            android:id="@+id/textViewContactVenmo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="none"
+            android:textStyle="bold"
+            android:textColor="@color/ProfileTop"
+            android:textSize="22sp"
+            />
+
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/venmoBtn"
+        android:background="@color/whiteGrey"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:src="@drawable/venmo_logo"/>
+</LinearLayout>

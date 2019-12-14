@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string-array name="type">
+        <item>Bottoms</item>
+        <item>Shirts and Polos</item>
+        <item>Formal Suits</item>
+        <item>Swimwear</item>
+        <item>Shoes</item>
+        <item>Jackets</item>
+        <item>Sleepwear</item>
+        <item>Tees and Tanks</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Mens</item>
+        <item>Womens</item>
+        <item>Unisex</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>XXS</item>
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+
+    <string-array name="condition">
+        <item>Very Used</item>
+        <item>Good</item>
+        <item>Excellent</item>
+        <item>Brand New (with tags)</item>
+    </string-array>
+
+</resources>
