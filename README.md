@@ -15,14 +15,14 @@ and options to remove a post. My Profile contains all user information; phone nu
 Clicking the Google sign in button, user will be redirected to Google and UCSC sign in. 
 
 ![Screen Shot 2020-03-30 at 5 07 19 AM](https://user-images.githubusercontent.com/46305741/77923446-527f0a00-7257-11ea-89c5-d843986f1527.png) <br>
-![Screen Shot 2020-03-30 at 5 07 36 AM](https://user-images.githubusercontent.com/46305741/77923464-56ab2780-7257-11ea-9c69-27c9694a422c.png)<br><br>
+![Screen Shot 2020-03-30 at 5 07 36 AM](https://user-images.githubusercontent.com/46305741/77923464-56ab2780-7257-11ea-9c69-27c9694a422c.png) <br><br>
 
 After confirmation, the main page will appear. I wanted to make sure this app only contained UC Santa Cruz student's so buyer
 and seller can have confidence in a safe and reliable transacation.
 
 ## Main Page
 
-![Screen Shot 2020-03-30 at 5 08 49 AM](https://user-images.githubusercontent.com/46305741/77924419-7ee75600-7258-11ea-8892-0bae410f1b3b.png)
+![Screen Shot 2020-03-30 at 5 08 49 AM](https://user-images.githubusercontent.com/46305741/77924419-7ee75600-7258-11ea-8892-0bae410f1b3b.png) <br> <br>
 
 ## Shop
 
@@ -31,12 +31,19 @@ and seller can have confidence in a safe and reliable transacation.
 Here is the list of seller postings. There are drop down menus that can filter the listings by category (pants, jackets, shoes, etc.) or by pricing (high to low or low to high). <br> <br>
 
 ![Screen Shot 2020-03-30 at 7 37 34 AM](https://user-images.githubusercontent.com/46305741/77925359-9f63e000-7259-11ea-81dd-c0e9fc8abae1.png)
-![Screen Shot 2020-03-30 at 7 39 34 AM](https://user-images.githubusercontent.com/46305741/77925369-a1c63a00-7259-11ea-9de6-a3890bbecc15.png)<br>
+![Screen Shot 2020-03-30 at 7 39 34 AM](https://user-images.githubusercontent.com/46305741/77925369-a1c63a00-7259-11ea-9de6-a3890bbecc15.png) <br>
 
 Clicking on any of the listed items will show detailed information and the seller's contact. <br>
 
+![Screen Shot 2020-03-30 at 7 46 58 AM](https://user-images.githubusercontent.com/46305741/77926814-67f63300-725b-11ea-807c-83ada0175c7d.png) <br>
+Clicking on the "V" icon for Venmo will redirect the user to the Venmo app as an option for payment <br>
 
-## 
+## New Post
+![Screen Shot 2020-03-30 at 7 48 38 AM](https://user-images.githubusercontent.com/46305741/77926823-6a588d00-725b-11ea-801f-44c4f1992a3a.png)
+![Screen Shot 2020-03-30 at 7 51 08 AM](https://user-images.githubusercontent.com/46305741/77926826-6b89ba00-725b-11ea-9864-45c3a75f52b6.png) <br> <br>
+Fill out the information about your clothing and add an image. Once the seller is done filling out the required information, pressing submit will add the post to the database. 
+
+
 
 
 
