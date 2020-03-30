@@ -32,7 +32,6 @@ Here is the list of seller postings. There are drop down menus that can filter t
 
 ![Screen Shot 2020-03-30 at 7 37 34 AM](https://user-images.githubusercontent.com/46305741/77925359-9f63e000-7259-11ea-81dd-c0e9fc8abae1.png)
 ![Screen Shot 2020-03-30 at 7 39 34 AM](https://user-images.githubusercontent.com/46305741/77925369-a1c63a00-7259-11ea-9de6-a3890bbecc15.png) <br>
-
 Clicking on any of the listed items will show detailed information and the seller's contact. <br>
 
 ![Screen Shot 2020-03-30 at 7 46 58 AM](https://user-images.githubusercontent.com/46305741/77926814-67f63300-725b-11ea-807c-83ada0175c7d.png) <br>
@@ -41,7 +40,16 @@ Clicking on the "V" icon for Venmo will redirect the user to the Venmo app as an
 ## New Post
 ![Screen Shot 2020-03-30 at 7 48 38 AM](https://user-images.githubusercontent.com/46305741/77926823-6a588d00-725b-11ea-801f-44c4f1992a3a.png)
 ![Screen Shot 2020-03-30 at 7 51 08 AM](https://user-images.githubusercontent.com/46305741/77926826-6b89ba00-725b-11ea-9864-45c3a75f52b6.png) <br> <br>
-Fill out the information about your clothing and add an image. Once the seller is done filling out the required information, pressing submit will add the post to the database. 
+Fill out the information about your clothing and add an image. Once the seller is done filling out the required information, pressing submit will add the post to the database.  <br> <br>
+
+![Screen Shot 2020-03-30 at 8 01 24 AM](https://user-images.githubusercontent.com/46305741/77928056-cf60b280-725c-11ea-85b2-46f3a11de08e.png)
+![Screen Shot 2020-03-30 at 8 01 49 AM](https://user-images.githubusercontent.com/46305741/77928067-d12a7600-725c-11ea-96a2-b8f5898d9f85.png) <br>
+Now if you look at the 'Shop' button you can see your posting!
+
+## MY ITEMS
+
+
+
 
 
 
