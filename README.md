@@ -48,6 +48,19 @@ Now if you look at the 'Shop' button you can see your posting!
 
 ## MY ITEMS
 
+![Screen Shot 2020-03-30 at 8 08 03 AM](https://user-images.githubusercontent.com/46305741/77929385-7560ec80-725e-11ea-954d-9c828a8a7360.png)<br> 
+Here we can see our new post (will create a list if we have more than one post) and we can delete the item from the app by clicking on the delete button.
+<br> <br>
+
+
+## MY PROFILE
+
+![Screen Shot 2020-03-30 at 8 13 29 AM](https://user-images.githubusercontent.com/46305741/77929351-65e1a380-725e-11ea-8147-e7839dee423c.png)<br>
+In the my profile page we can edit user name, email, phone number, and venmo. We can save edited information or sign out of the account. 
+
+
+
+
 
 
 
