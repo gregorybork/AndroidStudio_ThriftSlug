@@ -26,9 +26,19 @@ and seller can have confidence in a safe and reliable transacation.
 
 ## Shop
 
-![Screen Shot 2020-03-30 at 7 34 04 AM](https://user-images.githubusercontent.com/46305741/77924714-e0a7c000-7258-11ea-9334-25e56267fd8d.png) <br> <br>
+![Screen Shot 2020-03-30 at 7 34 04 AM](https://user-images.githubusercontent.com/46305741/77924714-e0a7c000-7258-11ea-9334-25e56267fd8d.png) <br> 
 
-Here is the list of seller postings. There are drop down menus that can filter the listings by category (pants, jackets, shoes, etc.) or by pricing (high to low or low to high).
+Here is the list of seller postings. There are drop down menus that can filter the listings by category (pants, jackets, shoes, etc.) or by pricing (high to low or low to high). <br> <br>
+
+![Screen Shot 2020-03-30 at 7 37 34 AM](https://user-images.githubusercontent.com/46305741/77925359-9f63e000-7259-11ea-81dd-c0e9fc8abae1.png)
+![Screen Shot 2020-03-30 at 7 39 34 AM](https://user-images.githubusercontent.com/46305741/77925369-a1c63a00-7259-11ea-9de6-a3890bbecc15.png)<br>
+
+Clicking on any of the listed items will show detailed information and the seller's contact. <br>
+
+
+## 
+
+
 
 
 
