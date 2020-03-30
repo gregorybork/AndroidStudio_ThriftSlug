@@ -11,4 +11,6 @@ and options to remove a post. My Profile contains all user information; phone nu
 ## Login
 
 ![Screen Shot 2020-03-30 at 5 06 26 AM](https://user-images.githubusercontent.com/46305741/77923351-34b1a500-7257-11ea-8ad2-4effdca88d50.png)
+![Screen Shot 2020-03-30 at 5 07 19 AM](https://user-images.githubusercontent.com/46305741/77923446-527f0a00-7257-11ea-89c5-d843986f1527.png)
+![Screen Shot 2020-03-30 at 5 07 36 AM](https://user-images.githubusercontent.com/46305741/77923464-56ab2780-7257-11ea-9c69-27c9694a422c.png)
 
