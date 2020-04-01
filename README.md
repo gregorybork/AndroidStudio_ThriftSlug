@@ -1,4 +1,4 @@
-# README
+# AndroidStudio_ThriftSlug
 This Android Studio project creates a safe place where UC Santa Cruz students can buy and sell clothing. 
 The app requires a UCSC email for account login and will deny access unless a valid email is provided. <br><br>
 There are four main buttons on the main page; SHOP (list of seller postings), NEW POST (submit new item), MY ITEMS,
